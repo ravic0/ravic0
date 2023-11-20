@@ -12,7 +12,7 @@
 <img align="right" height="150" src="https://media.giphy.com/media/11jacPItBsJDLa/giphy.gif"  />
 
 ###
-My tech stack for my current project
+Current project tech stack
 <div align="left">
   <img src="https://e7.pngegg.com/pngimages/540/810/png-clipart-node-js-javascript-npm-computer-icons-web-application-others-miscellaneous-text.png" height="30" alt="node logo"  />
   <img width="12" />
