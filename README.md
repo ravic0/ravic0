@@ -14,7 +14,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" height="30" alt="node logo"  />
+  <img src="https://e7.pngegg.com/pngimages/540/810/png-clipart-node-js-javascript-npm-computer-icons-web-application-others-miscellaneous-text.png" height="30" alt="node logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
