@@ -15,6 +15,10 @@
 ###
 Current project tech stack
 <div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://e7.pngegg.com/pngimages/887/314/png-clipart-devops-software-engineering-technology-engineer-blue-text-thumbnail.png" height="30" alt="azure logo"  />
+  <img width="12" />
   <img src="https://e7.pngegg.com/pngimages/540/810/png-clipart-node-js-javascript-npm-computer-icons-web-application-others-miscellaneous-text.png" height="30" alt="node logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -30,6 +34,7 @@ Current project tech stack
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
 </div>
 
 ###
