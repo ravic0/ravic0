@@ -46,5 +46,5 @@ Current project tech stack
 
 ###
 
-# Visit (or don't)
-<a href="https://ravic0.github.io" target="_blank"> That website you created when you were 6 </a>
+# Visit
+<a href="https://ravic0.github.io" target="_blank"> ravic0.pflo </a>
