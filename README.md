@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Ravnit and I love breaking (and mostly creating) code! </h2>
+<h2 align="left">Hi 🖖 I'm Ravnit and I love breaking (and mostly creating) code! </h2>
 
 ###
 
